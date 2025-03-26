@@ -1,4 +1,4 @@
-北京卫视
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1742953757&sign=16f59064f01c45239d223a09bb91faca
 湖南卫视
 浙江卫视
 江苏卫视
